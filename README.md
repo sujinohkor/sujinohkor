@@ -21,3 +21,8 @@ Prior to this role, I worked as a _**robotics engineer**_ at a start-up company,
 During my academic journey, I had the privilege of being part of Operating System Laboratory (OS Lab, Professor Young Woong Ko). The focus of the research includes _**operating systems, file systems, cloud systems, data de-duplication, file similarity, portable executable (PE) file structure, and software plagiarism.**_
 
 Throughout my career, I had the opportunity to lead **lectures** for both _**software and firmware engineers including other individuals without coding backgrounds.**_ If you would like to know more about me, please check _**my website: https://www.sujinohkor.kr**_
+
+## Contact
+Mobile. +82 10 3173 7024<br>
+Email. sujinohkor at gmail.com<br>
+Website. https://www.sujinohkor.kr
