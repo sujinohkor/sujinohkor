@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Thank you for visiting my website. I am _**Sujin Oh,**_ currently employed as a _**civil servant in South Korea.**_
+Thank you for visiting my GitHub profile. I am _**Sujin Oh,**_ currently employed as a _**civil servant in South Korea.**_
 
 Prior to this role, I worked as a _**robotics engineer**_ at a start-up company, where I contributed to the development of self-driving robots. I also held the position of an _**embedded Linux firmware engineer**_ at a closed-circuit television (CCTV) camera manufacturing firm.
 
