@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Thank you for visiting my website. I am Sujin Oh, currently employed as a **civil servant** in South Korea.
+Thank you for visiting my website. I am _**Sujin Oh,**_ currently employed as a _**civil servant in South Korea.**_
 
-Prior to this role, I worked as a robotics engineer at a start-up company, where I contributed to the development of self-driving robots. I also held the position of an embedded Linux firmware engineer at a closed-circuit television (CCTV) camera manufacturing firm.
+Prior to this role, I worked as a _**robotics engineer**_ at a start-up company, where I contributed to the development of self-driving robots. I also held the position of an _**embedded Linux firmware engineer**_ at a closed-circuit television (CCTV) camera manufacturing firm.
 
-During my academic journey, I had the privilege of being part of Operating System Laboratory (OS Lab, Professor Young Woong Ko). The focus of the research includes operating systems, file systems, cloud systems, data de-duplication, file similarity, portable executable (PE) file structure, and software plagiarism.
+During my academic journey, I had the privilege of being part of Operating System Laboratory (OS Lab, Professor Young Woong Ko). The focus of the research includes _**operating systems, file systems, cloud systems, data de-duplication, file similarity, portable executable (PE) file structure, and software plagiarism.**_
 
-Throughout my career, I had the opportunity to lead lectures for both software and firmware engineers including other individuals without coding backgrounds. If you would like to know more about me, please check my website: https://www.sujinohkor.kr
+Throughout my career, I had the opportunity to lead **lectures** for both _**software and firmware engineers including other individuals without coding backgrounds.**_ If you would like to know more about me, please check _**my website: https://www.sujinohkor.kr**_
