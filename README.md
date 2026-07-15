@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&width=435&lines=Human-Computer+Interaction;Human-Computer+Interface+Devices;Augmentative+and+Alternative+Communication;Assistive+Technology)](https://git.io/typing-svg)
+<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&width=435&lines=Human-Computer+Interaction;Human-Computer+Interface+Devices;Augmentative+and+Alternative+Communication;Assistive+Technology" alt="Typing SVG" /></a>-->
 ## Hi there 👋
 
 <!--
