@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Thank you for visiting my website. I am Sujin Oh, currently employed as a civil servant in South Korea.
+Thank you for visiting my website. I am Sujin Oh, currently employed as a <bold>civil servant</bold> in South Korea.
 
 Prior to this role, I worked as a robotics engineer at a start-up company, where I contributed to the development of self-driving robots. I also held the position of an embedded Linux firmware engineer at a closed-circuit television (CCTV) camera manufacturing firm.
 
