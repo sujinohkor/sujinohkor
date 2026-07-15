@@ -25,6 +25,6 @@ During my academic journey, I had the privilege of being part of Operating Syste
 Throughout my career, I had the opportunity to lead **lectures** for both _**software and firmware engineers including other individuals without coding backgrounds.**_ If you would like to know more about me, please check _**my website: https://www.sujinohkor.kr**_
 
 ## Contact
-Mobile. &nbsp; +82 10 3173 7024<br>
-Email. &nbsp; sujinohkor at gmail.com<br>
-Website. &nbsp; https://www.sujinohkor.kr
+**Mobile.** &nbsp; +82 10 3173 7024<br>
+**Email.** &nbsp; sujinohkor at gmail.com<br>
+**Website.** &nbsp; https://www.sujinohkor.kr
