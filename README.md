@@ -27,4 +27,6 @@ Throughout my career, I had the opportunity to lead **lectures** for both _**sof
 ## Contact
 **Mobile.** &nbsp; +82 10 3173 7024<br>
 **Email.** &nbsp; sujinohkor at gmail.com<br>
-**Website.** &nbsp; https://www.sujinohkor.kr
+**Web.** &nbsp; https://www.sujinohkor.kr<br>
+**Dev.** &nbsp; https://sujinohkor.pages.dev<br>
+**GitHub.** &nbsp; https://github.com/sujinohkor
