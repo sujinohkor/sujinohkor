@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&width=500&lines=Human-Computer+Interaction;Human-Computer+Interface+Devices;Augmentative+and+Alternative+Communication;Assistive+Technology)](https://git.io/typing-svg)
-<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&width=500&lines=Human-Computer+Interaction;Human-Computer+Interface+Devices;Augmentative+and+Alternative+Communication;Assistive+Technology" alt="Typing SVG" /></a>-->
-## Hi there 👋
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&width=500&lines=Human-Computer+Interaction;Human-Computer+Interface+Devices;Augmentative+and+Alternative+Communication;Assistive+Technology)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&width=500&lines=Human-Computer+Interaction;Human-Computer+Interface+Devices;Augmentative+and+Alternative+Communication;Assistive+Technology" alt="Typing SVG" /></a>-->
 
 <!--
 **sujinohkor/sujinohkor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&width=500&lines=Human-Computer+Interaction;Human-Computer+Interface+Devices;Augmentative+and+Alternative+Communication;Assistive+Technology)](https://git.io/typing-svg)
+## Hi there 👋
 Thank you for visiting my GitHub profile. I am _**Sujin Oh,**_ currently employed as a _**civil servant in South Korea.**_
 
 Prior to this role, I worked as a _**robotics engineer**_ at a start-up company, where I contributed to the development of self-driving robots. I also held the position of an _**embedded Linux firmware engineer**_ at a closed-circuit television (CCTV) camera manufacturing firm.
