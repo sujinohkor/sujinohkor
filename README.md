@@ -29,4 +29,4 @@ Throughout my career, I had the opportunity to lead **lectures** for both _**sof
 **Email.** &nbsp; sujinohkor at gmail.com<br>
 **Web.** &nbsp; https://www.sujinohkor.kr &nbsp; ◀ This is my CV.<br>
 **Dev.** &nbsp; https://sujinohkor.pages.dev &nbsp; ◀ This is my FUN site.<br>
-**GitHub.** &nbsp; https://github.com/sujinohkor &nbsp ◀ This is the CODE for the fun site.; 
+**GitHub.** &nbsp; https://github.com/sujinohkor &nbsp; ◀ This is the CODE for the fun site.; 
