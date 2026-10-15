@@ -22,7 +22,7 @@ I am an incoming Ph.D. student in **_[the Ultimate Interface Laboratory](https:/
 
 My research interests lie in human-computer interaction (HCI), particularly human-computer interface devices. My goal is to develop interface devices that support people with disabilities. Drawing on my background in systems research and industry experience across various domains, including robotics, I aim to pursue this goal through collaboration with researchers from diverse fields.
 
-Research-Interest Keywords<br>
+### Research-Interest Keywords
 ● Human-computer interface devices, wearables, health and mobile sensing, interface devices for extended reality.
 
 ## Contact
