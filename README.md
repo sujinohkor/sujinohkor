@@ -28,5 +28,5 @@ Research-Interest Keywords<br>
 
 ## Contact
 **Mobile.** &nbsp; +82 10 3173 7024<br>
-**Email.** &nbsp; **_[sujinohkor at gmail.com](sujinohkor@gmail.com)_**<br>
+**Email.** &nbsp; **_[sujinohkor at gmail.com](mailto:sujinohkor@gmail.com)_**<br>
 **Web.** &nbsp; **_https://www.sujinohkor.kr_**
