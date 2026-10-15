@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&width=500&lines=Human-Computer+Interaction;Human-Computer+Interface+Devices;Augmentative+and+Alternative+Communication;Assistive+Technology)](https://git.io/typing-svg)
 ## Hi there 👋
-Thank you for visiting my GitHub profile. I am _**Sujin Oh,**_ currently employed as a _**civil servant in South Korea.**_
+Hello everyone :D
+I am an incoming Ph.D. student in the Ultimate Interface Laboratory at UNIST CSE, South Korea, advised by Professor Seongkook Heo. I received my M.S. and B.S. degrees from Hallym University.
 
-Prior to this role, I worked as a _**robotics engineer**_ at a start-up company, where I contributed to the development of self-driving robots. I also held the position of an _**embedded Linux firmware engineer**_ at a closed-circuit television (CCTV) camera manufacturing firm.
+My research interests lie in human-computer interaction (HCI), particularly human-computer interface devices. My goal is to develop interface devices that support people with disabilities. Drawing on my background in systems research and industry experience across various domains, including robotics, I aim to pursue this goal through collaboration with researchers from diverse fields.
 
-During my academic journey, I had the privilege of being part of Operating System Laboratory (OS Lab, Professor Young Woong Ko). The focus of the research includes _**operating systems, file systems, cloud systems, data de-duplication, file similarity, portable executable (PE) file structure, and software plagiarism.**_
-
-Throughout my career, I had the opportunity to lead **lectures** for both _**software and firmware engineers including other individuals without coding backgrounds.**_ If you would like to know more about me, please check _**my website: https://www.sujinohkor.kr**_
+Research-Interest Keywords
+● Human-computer interface devices, wearables, health and mobile sensing, interface devices on extended reality.
+● Shortcuts: CV, Google Scholar, ORCID, GitHub, and Cloudflare.
 
 ## Contact
 **Mobile.** &nbsp; +82 10 3173 7024<br>
