@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Hi there 👋
 I am an incoming Ph.D. student in **_[the Ultimate Interface Laboratory](https://ultimateinterface.com/)_** at **_[UNIST CSE,](https://cse.unist.ac.kr/cse/index.do)_** South Korea, advised by **_[Professor Seongkook Heo.](https://seongkookheo.com/)_** I received my M.S. and B.S. degrees from Hallym University, advised by Youngwoong Ko.
 
-My research interests lie in **human-computer interaction (HCI),** particularly human-computer interface devices. My goal is to develop interface devices that support people with disabilities. Drawing on my background in systems research and industry experience across various domains, including robotics, I aim to pursue this goal through collaboration with researchers from diverse fields.
+My research interests lie in **human-computer interaction (HCI),** particularly **human-computer interface devices.** My goal is to develop **interface devices that support people with disabilities.** Drawing on my background in systems research and industry experience across various domains, including robotics, I aim to pursue this goal through collaboration with researchers from diverse fields.
 
 ### Research-Interest Keywords
 ● Human-computer interface devices, wearables, health and mobile sensing, interface devices for extended reality.
